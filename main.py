@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from telethon import TelegramClient, events
 from datetime import datetime, date, time
 import asyncio
